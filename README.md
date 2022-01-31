@@ -1,5 +1,7 @@
 # PaaS_wesio
 
+- Ja pensou em receber por seu trabalho sem processo seletivo ou entrevista? Ja pensou em investir dinheiro ficcional e fundos ficcionais em uma ideia sua? Precisa de um lugar para salvar suas ideias futuras e ideias sem menor sentido? WESIO é a resposta.                        
+
 ## ⚠️ Warning:
 
 - O código é antigo e por isso consideram hack. 
