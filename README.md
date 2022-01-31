@@ -12,6 +12,6 @@
 ## Como usar:
  
  - wiki: https://github.com/abel8259/PaaS_wesio/wiki
- - Q&A:
+ - Q&A: https://github.com/abel8259/PaaS_wesio/discussions/categories/q-a
  - duvidas:  
 
