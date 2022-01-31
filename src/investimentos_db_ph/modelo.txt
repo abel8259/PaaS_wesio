@@ -1,0 +1,10 @@
+>chave:
+>Nome do trade
+>key_classe_
+>complexity:
+>key_pub:
+>*******:
+-------------------------------------
+>sub_repo:
+>type:
+>value:
