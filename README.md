@@ -11,7 +11,7 @@
 
 ## Como usar:
  
- - wiki
+ - wiki: https://github.com/abel8259/PaaS_wesio/wiki
  - Q&A:
  - duvidas:  
 
