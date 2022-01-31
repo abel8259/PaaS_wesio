@@ -8,3 +8,10 @@
 
 ### 📜 Conteudo antigo:
 - link : https://github.com/abel8259/PaaS_wesio/search?l=hack
+
+## Como usar:
+ 
+ - wiki
+ - Q&A:
+ - duvidas:  
+
