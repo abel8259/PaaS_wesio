@@ -13,5 +13,5 @@
  
  - wiki: https://github.com/abel8259/PaaS_wesio/wiki
  - Q&A: https://github.com/abel8259/PaaS_wesio/discussions/categories/q-a
- - duvidas:  
+ - duvidas:  https://github.com/abel8259/PaaS_wesio/discussions/categories/duvidas
 
