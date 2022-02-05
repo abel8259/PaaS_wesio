@@ -23,3 +23,8 @@
 - login: https://github.com/abel8259/PaaS_wesio/tree/main/src/signin
 - main menu: https://github.com/abel8259/PaaS_wesio/tree/main/src/switch 
 - cli contratual: https://github.com/abel8259/PaaS_wesio/tree/main/redeWESIO29/COIN/src  
+
+## cli dO PaaS WESIO:
+
+-  cli contratual: https://github.com/abel8259/PaaS_wesio/tree/main/redeWESIO29/COIN/src  
+-  termos: 
