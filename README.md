@@ -32,4 +32,4 @@
 ### feature-v-2-0 da cli:(criaçao de micromoeda com smartmenu.pas)   
 
 -  src: https://raw.githubusercontent.com/abel8259/PaaS_wesio/main/redeWESIO29/COIN/src/smartmenu.pas  
--  HOW-TO: 
+- how-to de smart cotrato com WESRC: https://github.com/abel8259/PaaS_wesio/wiki/how-to-do-smartmenu-pas   
