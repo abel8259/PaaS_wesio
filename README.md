@@ -27,4 +27,7 @@
 ## cli dO PaaS WESIO:
 
 -  cli contratual: https://github.com/abel8259/PaaS_wesio/tree/main/redeWESIO29/COIN/src  
--  termos: 
+-  termos: https://github.com/abel8259/term_of_privacy_rs_UPDATED
+
+### feature-v-2-0 da cli:   
+-  criaçao de micromoeda   
