@@ -29,5 +29,7 @@
 -  cli contratual: https://github.com/abel8259/PaaS_wesio/tree/main/redeWESIO29/COIN/src  
 -  termos: https://github.com/abel8259/term_of_privacy_rs_UPDATED
 
-### feature-v-2-0 da cli:   
--  criaçao de micromoeda com smart-contrat.pas:        
+### feature-v-2-0 da cli:(criaçao de micromoeda com smartmenu.pas)   
+
+-  src: https://raw.githubusercontent.com/abel8259/PaaS_wesio/main/redeWESIO29/COIN/src/smartmenu.pas  
+-  HOW-TO: 
