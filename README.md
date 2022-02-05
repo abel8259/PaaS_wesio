@@ -30,4 +30,4 @@
 -  termos: https://github.com/abel8259/term_of_privacy_rs_UPDATED
 
 ### feature-v-2-0 da cli:   
--  criaçao de micromoeda   
+-  criaçao de micromoeda com smart-contrat.pas:        
