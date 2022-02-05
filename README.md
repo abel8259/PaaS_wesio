@@ -33,3 +33,4 @@
 
 -  src: https://raw.githubusercontent.com/abel8259/PaaS_wesio/main/redeWESIO29/COIN/src/smartmenu.pas  
 - how-to de smart cotrato com WESRC: https://github.com/abel8259/PaaS_wesio/wiki/how-to-do-smartmenu-pas   
+- o código em src é uma biblioteca se nao funcionar, tente usar o geany e transfiraa estrutura de software de unit para program com todos os requisitos de um software-one-page em pascal.                  
