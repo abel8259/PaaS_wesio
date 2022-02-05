@@ -17,3 +17,6 @@
  - Q&A: https://github.com/abel8259/PaaS_wesio/discussions/categories/q-a
  - duvidas:  https://github.com/abel8259/PaaS_wesio/discussions/categories/duvidas
 
+## Roadmap:
+
+- cadastramento: https://github.com/abel8259/PaaS_wesio/tree/main/src/signup
