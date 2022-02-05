@@ -2,7 +2,7 @@
 
 - Ja pensou em receber por seu trabalho sem processo seletivo ou entrevista? Ja pensou em investir dinheiro ficcional e fundos ficcionais em uma ideia sua? Precisa de um lugar para salvar suas ideias futuras e ideias sem menor sentido? WESIO é a resposta.                        
 
-## ⚠️ Warning:
+## ⚠️ Warning:(1)
 
 - O código é antigo e por isso consideram hack. 
 - Se nao acredita leia por si próprio. 
@@ -10,6 +10,11 @@
 
 ### 📜 Conteudo antigo:
 - link : https://github.com/abel8259/PaaS_wesio/search?l=hack
+
+## - warning:(2)
+
+- é uma criptomoeda fantasia que eu criei para minha estagiaria. Ela é muito útil no contexto SUmmer:R. E nao tem nenhuma aplicabilidade real da moeda.
+
 
 ## Como usar:
  
@@ -33,4 +38,6 @@
 
 -  src: https://raw.githubusercontent.com/abel8259/PaaS_wesio/main/redeWESIO29/COIN/src/smartmenu.pas  
 - how-to de smart cotrato com WESRC: https://github.com/abel8259/PaaS_wesio/wiki/how-to-do-smartmenu-pas   
-- o código em src é uma biblioteca se nao funcionar, tente usar o geany e transfiraa estrutura de software de unit para program com todos os requisitos de um software-one-page em pascal.                  
+- o código em src é uma biblioteca se nao funcionar, tente usar o geany e transfira a estrutura de software de unit para program com todos os requisitos de um software-one-page em pascal.                
+
+ 
