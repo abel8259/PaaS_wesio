@@ -7,7 +7,7 @@ procedure Menususpend();
 
 implementation
 
-uses crt, putonmenu, minemenu;
+uses crt, putonmenu, minemenu, smartmenu;
 
 procedure Menususpend();
 
@@ -21,12 +21,15 @@ BEGIN
      writeln('Bem vindo a rede WESIO29'); 
      writeln('?');
      writeln('i - contrato normal; ');
+     writeln('r - contrato rapido; ');
      writeln('j - minerar/rain--colaborador; '); 
      readln(esc); 
        
      if(esc = 'i') then
        TriangArea()
        
+     else if(esc = 'r') then 
+       Secarea()
      else if(esc = 'j') then 
        Remenuea()
     else
